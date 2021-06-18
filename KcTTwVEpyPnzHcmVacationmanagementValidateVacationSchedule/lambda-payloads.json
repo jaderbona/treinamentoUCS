@@ -1,0 +1,17 @@
+{
+    "KcTTwVEpyPnzHcmVacationmanagementValidateVacationSchedule": {
+        "lambda": {
+            "body": {
+                "vacations": [
+                    {
+                        "employeeId": "4778E1EEAFA848B8B00C7C73583B6521",
+                        "vacationPeriodId": "C946A40A79404652B008615893C6046A",
+                        "vacationReturn": {},
+                        "startDate": "2021-06-17",
+                        "vacationDays": "30"
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "DeploymentMethod": "lambda",
+    "Functions": {
+        "KcTTwVEpyPnzHcmPayrollCreateMergeDismissalMovimentation": {
+            "PhysicalId": {
+                "us-east-1": "KcTTwVEpyPnzHcmPayrollCreateMergeDismissalMovimentation"
+            }
+        }
+    }
+}
